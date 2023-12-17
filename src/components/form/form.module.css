@@ -1,0 +1,25 @@
+.contact-form {
+  padding: 20px 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  border: 1px solid #232323;
+}
+
+.form-label {
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+}
+
+.form-input {
+  width: 70%;
+}
+
+.form-btn {
+  width: 120px;
+  height: 40px;
+}
